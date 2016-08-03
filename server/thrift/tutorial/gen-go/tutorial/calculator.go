@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"shared"
+	"forester/server/thrift/tutorial/gen-go/shared"
 )
 
 // (needed to ensure safety because of naive import list construction.)

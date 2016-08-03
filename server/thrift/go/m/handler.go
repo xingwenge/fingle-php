@@ -21,9 +21,9 @@ package m
 
 import (
 	"fmt"
-	"shared"
 	"strconv"
 	"forester/server/thrift/tutorial/gen-go/tutorial"
+	"forester/server/thrift/tutorial/gen-go/shared"
 )
 
 type CalculatorHandler struct {
